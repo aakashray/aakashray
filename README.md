@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aakash Ray</h1>
 <h3 align="center">A beginner competitive programmer in C++ , looking to crack tech interviews and explore opportunities!</h3>
 
-  ![image](https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966)
+<section align="center">
+<img src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+</section>
   
 
 <p align="left"> <a href="https://twitter.com/aakashray_18" target="blank"><img src="https://img.shields.io/twitter/follow/aakashray_18?logo=twitter&style=for-the-badge" alt="aakashray_18" /></a> </p>
