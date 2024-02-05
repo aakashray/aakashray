@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/aakashray_18" target="blank"><img src="https://img.shields.io/twitter/follow/aakashray_18?logo=twitter&style=for-the-badge" alt="aakashray_18" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Web Development and soon will start Machine Learning!**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Web Development, majoring in Internet of Things at the Lovely Professional University!**
 
 - 💬 Ask me about **DSA , WebD and C++**
 
